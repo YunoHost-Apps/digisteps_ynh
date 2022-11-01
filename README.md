@@ -17,15 +17,15 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Create simple online educational pathes
 
-**Shipped version:** 0.3.4~ynh1
+**Shipped version:** 0.3.9~ynh1
 
 **Demo:** https://ladigitale.dev/digisteps/#/
 ## Documentation and resources
 
 * Official app website: <https://ladigitale.dev/>
 * Official user documentation: <https://ladigitale.dev/blog/digisteps-pour-creer-des-parcours-pedagogiques-en-ligne>
-* Official admin documentation: <https://gitlab.com/ladigitale/digisteps/-/blob/master/README.md>
-* Upstream app code repository: <https://gitlab.com/ladigitale/digisteps>
+* Official admin documentation: <https://codeberg.org/ladigitale/digisteps/src/branch/master/README.md>
+* Upstream app code repository: <https://codeberg.org/ladigitale/digisteps>
 * YunoHost documentation for this app: <https://yunohost.org/app_digisteps>
 * Report a bug: <https://github.com/YunoHost-Apps/digisteps_ynh/issues>
 
