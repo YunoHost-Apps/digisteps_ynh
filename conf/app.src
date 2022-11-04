@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/YunoHost-Apps/digisteps_ynh/releases/download/0.3.4/digisteps-v0.3.4.zip
-SOURCE_SUM=a2e55c81fd5b31c254b92c8c03da6db48f6ab0ead32798c546162dc29bfbbdad
+SOURCE_URL=https://github.com/YunoHost-Apps/digisteps_ynh/releases/download/0.3.9/digisteps-v0.3.9.zip
+SOURCE_SUM=cfd0723c29ae55d22496ae5db278c473f34daa64913835a1a7e3c431bfe99efc
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
