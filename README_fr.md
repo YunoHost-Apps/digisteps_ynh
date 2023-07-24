@@ -5,15 +5,16 @@ It shall NOT be edited by hand.
 
 # Digisteps pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/digisteps.svg)](https://dash.yunohost.org/appci/app/digisteps) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/digisteps.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/digisteps.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/digisteps.svg)](https://dash.yunohost.org/appci/app/digisteps) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/digisteps.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/digisteps.maintain.svg)
+
 [![Installer Digisteps avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digisteps)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Digisteps rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Digisteps rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Créer des parcours pédagogiques simples en ligne
 
@@ -22,10 +23,10 @@ Créer des parcours pédagogiques simples en ligne
 **Démo :** https://ladigitale.dev/digisteps/#/
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://ladigitale.dev/>
+* Site officiel de l’app : <https://ladigitale.dev/>
 * Documentation officielle utilisateur : <https://ladigitale.dev/blog/digisteps-pour-creer-des-parcours-pedagogiques-en-ligne>
-* Documentation officielle de l'admin : <https://codeberg.org/ladigitale/digisteps/src/branch/master/README.md>
-* Dépôt de code officiel de l'app : <https://codeberg.org/ladigitale/digisteps>
+* Documentation officielle de l’admin : <https://codeberg.org/ladigitale/digisteps/src/branch/master/README.md>
+* Dépôt de code officiel de l’app : <https://codeberg.org/ladigitale/digisteps>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_digisteps>
 * Signaler un bug : <https://github.com/YunoHost-Apps/digisteps_ynh/issues>
 
@@ -41,4 +42,4 @@ ou
 sudo yunohost app upgrade digisteps -u https://github.com/YunoHost-Apps/digisteps_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
