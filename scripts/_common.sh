@@ -5,7 +5,7 @@
 #=================================================
 
 # dependencies used by the app
-pkg_dependencies="php7.4-sqlite3"
+#REMOVEME? pkg_dependencies="php7.4-sqlite3"
 
 #=================================================
 # PERSONAL HELPERS
