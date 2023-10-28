@@ -4,9 +4,6 @@
 # COMMON VARIABLES
 #=================================================
 
-# dependencies used by the app
-#REMOVEME? pkg_dependencies="php7.4-sqlite3"
-
 #=================================================
 # PERSONAL HELPERS
 #=================================================
