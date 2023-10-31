@@ -27,7 +27,7 @@ Create simple online educational pathes
 * Official user documentation: <https://ladigitale.dev/blog/digisteps-pour-creer-des-parcours-pedagogiques-en-ligne>
 * Official admin documentation: <https://codeberg.org/ladigitale/digisteps/src/branch/master/README.md>
 * Upstream app code repository: <https://codeberg.org/ladigitale/digisteps>
-* YunoHost documentation for this app: <https://yunohost.org/app_digisteps>
+* YunoHost Store: <https://apps.yunohost.org/app/digisteps>
 * Report a bug: <https://github.com/YunoHost-Apps/digisteps_ynh/issues>
 
 ## Developer info

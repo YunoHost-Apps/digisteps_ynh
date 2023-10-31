@@ -27,7 +27,7 @@ Créer des parcours pédagogiques simples en ligne
 * Documentation officielle utilisateur : <https://ladigitale.dev/blog/digisteps-pour-creer-des-parcours-pedagogiques-en-ligne>
 * Documentation officielle de l’admin : <https://codeberg.org/ladigitale/digisteps/src/branch/master/README.md>
 * Dépôt de code officiel de l’app : <https://codeberg.org/ladigitale/digisteps>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_digisteps>
+* YunoHost Store: <https://apps.yunohost.org/app/digisteps>
 * Signaler un bug : <https://github.com/YunoHost-Apps/digisteps_ynh/issues>
 
 ## Informations pour les développeurs
