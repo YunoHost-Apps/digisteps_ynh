@@ -16,7 +16,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Créer des parcours pédagogiques simples en ligne
+Create simple online educational pathes
 
 **Version incluse :** 0.3.9~ynh1
 

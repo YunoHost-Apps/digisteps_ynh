@@ -1,0 +1,66 @@
+packaging_format = 2
+
+id = "digisteps"
+name = "Digisteps"
+description.en = "Create simple online educational pathes"
+description.fr = "Créer des parcours pédagogiques simples en ligne"
+
+version = "0.3.9~ynh1"
+
+maintainers = ["Pierre-Amiel Giraud"]
+
+[upstream]
+license = "GPL-3.0-only"
+website = "https://ladigitale.dev/"
+demo = "https://ladigitale.dev/digisteps/#/"
+admindoc = "https://codeberg.org/ladigitale/digisteps/src/branch/master/README.md"
+userdoc = "https://ladigitale.dev/blog/digisteps-pour-creer-des-parcours-pedagogiques-en-ligne"
+code = "https://codeberg.org/ladigitale/digisteps"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+
+ldap = false
+
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/digisteps"
+
+    [install.init_main_permission]
+    help.en = "If public, any visitor can create educational pathes and see saved ones, providing they know their secret questions and answers."
+    help.fr = "Si l’application est publique, n’importe quel visiteur pourra créer un parcours pédagogique et consulter ceux sauvegardés dont ils connaissent à la fois la question secrète et la réponse."
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://github.com/YunoHost-Apps/digisteps_ynh/releases/download/0.3.9/digisteps-v0.3.9.zip"
+        sha256 = "cfd0723c29ae55d22496ae5db278c473f34daa64913835a1a7e3c431bfe99efc"
+        autoupdate.strategy = "latest_github_tag"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.data_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.apt]
+    packages = "mariadb-server, php8.2-sqlite3, php8.2-gd"
+
+    [resources.database]
+    type = "mysql"
