@@ -48,6 +48,7 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://github.com/YunoHost-Apps/digisteps_ynh/releases/download/0.3.9/digisteps-v0.3.9.zip"
         sha256 = "cfd0723c29ae55d22496ae5db278c473f34daa64913835a1a7e3c431bfe99efc"
+        autoupdate.upstream = "https://github.com/YunoHost-Apps/digisteps_ynh"
         autoupdate.strategy = "latest_github_release"
         autoupdate.asset = ".*.zip"
 
