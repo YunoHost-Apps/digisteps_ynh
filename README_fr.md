@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Create simple online educational pathes
 
-**Version incluse :** 0.3.9~ynh1
+**Version incluse :** 0.5.13~ynh1
 
 **Démo :** https://ladigitale.dev/digisteps/#/
 ## Documentations et ressources
