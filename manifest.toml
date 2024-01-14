@@ -27,7 +27,7 @@ ldap = false
 sso = false
 
 disk = "50M"
-ram.build = "50M"
+ram.build = "100M"
 ram.runtime = "50M"
 
 [install]
@@ -39,8 +39,6 @@ ram.runtime = "50M"
     default = "/digisteps"
 
     [install.init_main_permission]
-    help.en = "If public, any visitor can create educational pathes and see saved ones, providing they know their secret questions and answers."
-    help.fr = "Si l’application est publique, n’importe quel visiteur pourra créer un parcours pédagogique et consulter ceux sauvegardés dont ils connaissent à la fois la question secrète et la réponse."
     type = "group"
     default = "visitors"
 
