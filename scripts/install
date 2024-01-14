@@ -14,7 +14,6 @@ source /usr/share/yunohost/helpers
 #=================================================
 ynh_script_progression --message="Setting up source files..." --weight=1
 
-# Download, check integrity, uncompress and patch the source from app.src
 ynh_setup_source --dest_dir="$install_dir"
 
 chmod -R o-rwx "$install_dir"
@@ -25,10 +24,8 @@ chown -R $app:www-data "$install_dir"
 #=================================================
 ynh_script_progression --message="Configuring NGINX web server..." --weight=1
 
-# Create a dedicated NGINX config
 ynh_add_nginx_config
 
-# Create a dedicated PHP-FPM config
 ynh_add_fpm_config
 
 #=================================================

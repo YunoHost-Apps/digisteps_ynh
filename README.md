@@ -18,7 +18,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Create simple online educational pathes
 
-**Shipped version:** 0.3.9~ynh1
+**Shipped version:** 0.5.13~ynh1
 
 **Demo:** https://ladigitale.dev/digisteps/#/
 ## Documentation and resources
