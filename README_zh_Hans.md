@@ -18,7 +18,7 @@
 
 Create simple online educational pathes
 
-**分发版本：** 0.5.16~ynh1
+**分发版本：** 0.5.16~ynh2
 
 **演示：** <https://ladigitale.dev/digisteps/#/>
 ## 文档与资源
