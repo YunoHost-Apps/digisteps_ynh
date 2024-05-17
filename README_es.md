@@ -18,7 +18,7 @@ No se debe editar a mano.
 
 Create simple online educational pathes
 
-**Versión actual:** 0.5.16~ynh1
+**Versión actual:** 0.5.16~ynh2
 
 **Demo:** <https://ladigitale.dev/digisteps/#/>
 ## Documentaciones y recursos
