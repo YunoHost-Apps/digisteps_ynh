@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # Digisteps para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/digisteps.svg)](https://dash.yunohost.org/appci/app/digisteps) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/digisteps.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/digisteps.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/digisteps.svg)](https://ci-apps.yunohost.org/ci/apps/digisteps/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/digisteps.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/digisteps.maintain.svg)
 
 [![Instalar Digisteps con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digisteps)
 
@@ -18,7 +18,7 @@ No se debe editar a mano.
 
 Create simple online educational pathes
 
-**Versión actual:** 0.5.16~ynh2
+**Versión actual:** 0.6.0~ynh1
 
 **Demo:** <https://ladigitale.dev/digisteps/#/>
 ## Documentaciones y recursos

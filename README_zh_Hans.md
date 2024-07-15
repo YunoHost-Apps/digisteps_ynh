@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Digisteps
 
-[![集成程度](https://dash.yunohost.org/integration/digisteps.svg)](https://dash.yunohost.org/appci/app/digisteps) ![工作状态](https://ci-apps.yunohost.org/ci/badges/digisteps.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/digisteps.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/digisteps.svg)](https://ci-apps.yunohost.org/ci/apps/digisteps/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/digisteps.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/digisteps.maintain.svg)
 
 [![使用 YunoHost 安装 Digisteps](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digisteps)
 
@@ -18,7 +18,7 @@
 
 Create simple online educational pathes
 
-**分发版本：** 0.5.16~ynh2
+**分发版本：** 0.6.0~ynh1
 
 **演示：** <https://ladigitale.dev/digisteps/#/>
 ## 文档与资源
