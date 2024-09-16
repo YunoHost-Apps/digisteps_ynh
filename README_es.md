@@ -18,7 +18,7 @@ No se debe editar a mano.
 
 Create simple online educational pathes
 
-**Versión actual:** 0.6.0~ynh1
+**Versión actual:** 0.6.1~ynh1
 
 **Demo:** <https://ladigitale.dev/digisteps/#/>
 ## Documentaciones y recursos
@@ -32,7 +32,7 @@ Create simple online educational pathes
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/digisteps_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/digisteps_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
