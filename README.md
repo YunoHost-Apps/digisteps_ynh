@@ -18,7 +18,7 @@ It shall NOT be edited by hand.
 
 Create simple online educational pathes
 
-**Shipped version:** 0.6.0~ynh1
+**Shipped version:** 0.6.2~ynh1
 
 **Demo:** <https://ladigitale.dev/digisteps/#/>
 ## Documentation and resources
