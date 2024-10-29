@@ -5,7 +5,7 @@ name = "Digisteps"
 description.en = "Create simple online educational pathes"
 description.fr = "Créer des parcours pédagogiques simples en ligne"
 
-version = "0.6.0~ynh1"
+version = "0.6.2~ynh1"
 
 maintainers = ["Pierre-Amiel Giraud"]
 
@@ -44,8 +44,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://codeberg.org/ladigitale/digisteps/archive/0.6.0.tar.gz"
-        sha256 = "d73b3cfdb92f7b8d76fb7a0cf7dd5262ce92175f6e802fd725b3667b8b80b988"
+        url = "https://codeberg.org/ladigitale/digisteps/archive/0.6.2.tar.gz"
+        sha256 = "59def2484481b3d5c0fc7899f063d36af1709aa1e0eb697ab1156633fcc1549d"
         autoupdate.strategy = "latest_forgejo_release"
 
     [resources.system_user]
