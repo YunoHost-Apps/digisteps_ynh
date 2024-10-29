@@ -18,7 +18,7 @@ userdoc = "https://ladigitale.dev/blog/digisteps-pour-creer-des-parcours-pedagog
 code = "https://codeberg.org/ladigitale/digisteps"
 
 [integration]
-yunohost = ">= 11.2.18"
+yunohost = ">= 11.2.30"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
@@ -58,4 +58,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "php8.2-sqlite3, php8.2-gd"
+    packages = "php8.3-sqlite3, php8.3-gd"
