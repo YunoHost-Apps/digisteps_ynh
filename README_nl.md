@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Digisteps voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/digisteps.svg)](https://ci-apps.yunohost.org/ci/apps/digisteps/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/digisteps.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/digisteps.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/digisteps)](https://ci-apps.yunohost.org/ci/apps/digisteps/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/digisteps)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/digisteps)
 
 [![Digisteps met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digisteps)
 
@@ -18,7 +20,7 @@ Hij mag NIET handmatig aangepast worden.
 
 Create simple online educational pathes
 
-**Geleverde versie:** 0.6.2~ynh1
+**Geleverde versie:** 0.6.3~ynh1
 
 **Demo:** <https://ladigitale.dev/digisteps/#/>
 ## Documentatie en bronnen
