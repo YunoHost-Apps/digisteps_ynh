@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Digisteps untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/digisteps.svg)](https://ci-apps.yunohost.org/ci/apps/digisteps/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/digisteps.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/digisteps.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/digisteps)](https://ci-apps.yunohost.org/ci/apps/digisteps/)
+![Status kerja](https://apps.yunohost.org/badge/state/digisteps)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/digisteps)
 
 [![Pasang Digisteps dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digisteps)
 
@@ -18,7 +20,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 Create simple online educational pathes
 
-**Versi terkirim:** 0.6.2~ynh1
+**Versi terkirim:** 0.6.3~ynh1
 
 **Demo:** <https://ladigitale.dev/digisteps/#/>
 ## Dokumentasi dan sumber daya

@@ -5,7 +5,9 @@
 
 # Digisteps для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/digisteps.svg)](https://ci-apps.yunohost.org/ci/apps/digisteps/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/digisteps.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/digisteps.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/digisteps)](https://ci-apps.yunohost.org/ci/apps/digisteps/)
+![Состояние работы](https://apps.yunohost.org/badge/state/digisteps)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/digisteps)
 
 [![Установите Digisteps с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digisteps)
 
@@ -18,7 +20,7 @@
 
 Create simple online educational pathes
 
-**Поставляемая версия:** 0.6.2~ynh1
+**Поставляемая версия:** 0.6.3~ynh1
 
 **Демо-версия:** <https://ladigitale.dev/digisteps/#/>
 ## Документация и ресурсы
