@@ -1,3 +1,5 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
 packaging_format = 2
 
 id = "digisteps"
@@ -5,7 +7,7 @@ name = "Digisteps"
 description.en = "Create simple online educational pathes"
 description.fr = "Créer des parcours pédagogiques simples en ligne"
 
-version = "0.6.3~ynh1"
+version = "0.6.4~ynh1"
 
 maintainers = ["Pierre-Amiel Giraud"]
 
@@ -43,10 +45,10 @@ ram.runtime = "50M"
     default = "visitors"
 
 [resources]
-        [resources.sources.main]
-        url = "https://codeberg.org/ladigitale/digisteps/archive/0.6.3.tar.gz"
-        sha256 = "6840c928590d775f72b85b40d1003da0c0ef39ea880631d02451e3ab49c7fc08"
-        autoupdate.strategy = "latest_forgejo_release"
+    [resources.sources.main]
+    url = "https://codeberg.org/ladigitale/digisteps/archive/0.6.4.tar.gz"
+    sha256 = "7d2e33eb740d2c1a461e7d5b300e87b7077a895f7ac87f07ec261ec575371abc"
+    autoupdate.strategy = "latest_forgejo_release"
 
     [resources.system_user]
 
