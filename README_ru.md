@@ -20,7 +20,7 @@
 
 Create simple online educational pathes
 
-**Поставляемая версия:** 0.6.4~ynh1
+**Поставляемая версия:** 0.6.5~ynh1
 
 **Демо-версия:** <https://ladigitale.dev/digisteps/#/>
 ## Документация и ресурсы

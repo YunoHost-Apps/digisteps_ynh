@@ -20,7 +20,7 @@ Nie powinno być ono edytowane ręcznie.
 
 Create simple online educational pathes
 
-**Dostarczona wersja:** 0.6.4~ynh1
+**Dostarczona wersja:** 0.6.5~ynh1
 
 **Demo:** <https://ladigitale.dev/digisteps/#/>
 ## Dokumentacja i zasoby
