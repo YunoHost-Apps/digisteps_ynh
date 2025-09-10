@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # Digisteps para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/digisteps.svg)](https://ci-apps.yunohost.org/ci/apps/digisteps/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/digisteps.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/digisteps.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/digisteps)](https://ci-apps.yunohost.org/ci/apps/digisteps/)
+![Estado funcional](https://apps.yunohost.org/badge/state/digisteps)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/digisteps)
 
 [![Instalar Digisteps con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digisteps)
 
@@ -18,7 +20,7 @@ No se debe editar a mano.
 
 Create simple online educational pathes
 
-**Versión actual:** 0.6.0~ynh1
+**Versión actual:** 0.6.5~ynh1
 
 **Demo:** <https://ladigitale.dev/digisteps/#/>
 ## Documentaciones y recursos
@@ -32,7 +34,7 @@ Create simple online educational pathes
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/digisteps_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/digisteps_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
