@@ -7,7 +7,7 @@ name = "Digisteps"
 description.en = "Create simple online educational pathes"
 description.fr = "Créer des parcours pédagogiques simples en ligne"
 
-version = "0.6.5~ynh1"
+version = "0.6.5~ynh2"
 
 maintainers = ["Pierre-Amiel Giraud"]
 
