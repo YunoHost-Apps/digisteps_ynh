@@ -1,1 +1,1 @@
-Create simple online educational pathes
+Create simple online educational pathes.
