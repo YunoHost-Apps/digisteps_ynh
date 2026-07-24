@@ -47,7 +47,7 @@ ram.runtime = "50M"
 [resources]
     [resources.sources.main]
     url = "https://codeberg.org/ladigitale/digisteps/archive/0.6.6.tar.gz"
-    sha256 = "f8ea78f61631ce9e5d3733b30729ffb72609b37050e129303dd52b247f2ae30e"
+    sha256 = "8f5c459e2e667dbff7d858d114df84dd5ea3e93090ace3e92f99a0602b85de74"
     autoupdate.strategy = "latest_forgejo_release"
 
     [resources.system_user]
