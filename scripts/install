@@ -11,7 +11,7 @@ ynh_setup_source --dest_dir="$install_dir"
 
 pushd $install_dir
  npm install
- composer install
+ ynh_composer_exec install --no-dev  --optimize-autoloader
 popd
 
 #=================================================
