@@ -60,3 +60,9 @@ ram.runtime = "50M"
 
     [resources.apt]
     packages = "php8.5-sqlite3, php8.5-gd"
+
+    [resources.composer]
+    version = "2.10.1"
+
+    [resources.nodejs]
+    version = "24"
