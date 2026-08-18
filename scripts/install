@@ -9,6 +9,11 @@ ynh_script_progression "Setting up source files..."
 
 ynh_setup_source --dest_dir="$install_dir"
 
+pushd $install_dir
+ npm install
+ composer install
+popd
+
 #=================================================
 # APP INITIAL CONFIGURATION
 #=================================================
